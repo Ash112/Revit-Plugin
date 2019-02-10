@@ -15,6 +15,11 @@ Current planned features(2019):
 -Installer for addin
 -Addin info
 
+Currently implementd features:
+
+-UI buttons
+-info
+
 How to install:
 
 -Copy the Addin file to Program Data>Autodesk>Revit>2019
