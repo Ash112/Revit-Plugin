@@ -1,7 +1,7 @@
 # Revit Plugin - AKP TOOLS -
 My First Revit Plugin Using C#
 
-After working with Dynamo & Python for about a year,the next logical step is to create a revit addon so I 
+After working with Dynamo & Python for about a year, the next logical step is to create a revit addon so I 
 started converting my Dynamo nodes & Python scripts to c# as a revit Add-on for revit 2019.
 
 Current planned features(2019):
