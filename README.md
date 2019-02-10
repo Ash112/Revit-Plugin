@@ -24,4 +24,4 @@ How to install:
 
 -Copy the Addin file to Program Data>Autodesk>Revit>2019
 
--Copy the Dll File to your desired location and repalce the second line in the Addin file with the lcoation.
+-Copy the DLL File to your desired location and replace the second line in the Addin file with the location.
