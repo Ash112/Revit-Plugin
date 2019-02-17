@@ -12,13 +12,14 @@ Current planned features(2019-20):
 -Go to Website
 -Installer for addin
 
-Implemented features:(10.02.19) v0.1
+Changelog:(10.02.19) v0.1
 
--UI buttons
--info
+-Added UI buttons
+-Added info Button
 
-Implemented features:(17.02.19) v0.2
+Changelog:(17.02.19) v0.2
 
--Check for overriden dimensions in view
+-Added & updated UI icons
+-Added Check for overriden dimensions in view
 
 
