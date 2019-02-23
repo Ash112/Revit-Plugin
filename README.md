@@ -22,4 +22,8 @@ Changelog:(17.02.19) v0.2
 -Added & updated UI icons
 -Added Check for overriden dimensions in view
 
+Changelog:(23.02.19) v0.2
+
+-Added compatability for multi segment dimensions override check
+
 
