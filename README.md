@@ -29,4 +29,5 @@ Changelog:(23.02.19) v0.3
 Changelog:(24.02.19) v0.4
 
 -Added new UI buttons
--started implementing duplicate Tags & untagged elements
+-started implementing duplicate Tags
+-implemented untagged elements
