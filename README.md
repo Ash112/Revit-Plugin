@@ -22,8 +22,11 @@ Changelog:(17.02.19) v0.2
 -Added & updated UI icons
 -Added Check for overriden dimensions in view
 
-Changelog:(23.02.19) v0.2
+Changelog:(23.02.19) v0.3
 
 -Added compatability for multi segment dimensions override check
 
+Changelog:(24.02.19) v0.4
 
+-Added new UI buttons
+-started implementing duplicate Tags & untagged elements
