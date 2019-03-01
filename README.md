@@ -31,3 +31,10 @@ Changelog:(24.02.19) v0.4
 -Added new UI buttons
 -started implementing duplicate Tags
 -implemented untagged elements
+
+Changelog:(1.03.19) v0.5
+
+-Embedded icons
+-improved ovvriden dimension
+
+
