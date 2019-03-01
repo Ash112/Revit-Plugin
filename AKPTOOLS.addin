@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <RevitAddIns>
   <AddIn Type="Application">
-    <Assembly>C:\ProgramData\Autodesk\Revit\Addins\2019\AKPTOOLS.dll</Assembly>
+    <Assembly>AKPTOOLS.dll</Assembly>
     <ClientId>FF7A15A2-7764-441C-B97C-8040BA46CE0A</ClientId>
     <FullClassName>AKPTOOLS.TOOLS</FullClassName>
     <Name>AKP TOOLS</Name>
