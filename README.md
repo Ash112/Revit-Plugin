@@ -6,11 +6,10 @@ started converting my Dynamo nodes & Python scripts to C# as a revit Add-on for 
 
 Current and future features(2019-20):
 
--Check for duplicate Tags
--Check for untagged elements
+-Check for duplicate Tags 
+-Check for untagged elements 
 -Rebar visibilty control
 -Go to Website
--Installer for addin
 -Ovveriden dimension check
 
 Changelog:(10.02.19) v0.1
@@ -37,5 +36,10 @@ Changelog:(1.03.19) v0.5
 
 -Embedded icons
 -improved ovvriden dimension
+
+Changelog:(2.03.19) v0.6
+
+-Check for duplicate Tags added
+
 
 
