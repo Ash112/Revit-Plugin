@@ -1,7 +1,5 @@
 # Revit Plugin - AKP TOOLS -
 
-
-After working with Dynamo & Python for about a year, the next step is to create a revit addon so I 
 started converting my Dynamo nodes & Python scripts to C# as a revit Add-on for revit 2017-19.
 
 Current and future features(2019-20):
